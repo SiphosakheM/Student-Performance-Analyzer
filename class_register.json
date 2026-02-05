@@ -1,0 +1,22 @@
+[
+    {
+        "firstname": "Aisha",
+        "lastname": "Khan",
+        "marks": 42.0
+    },
+    {
+        "firstname": "Sipho",
+        "lastname": "Dlamini",
+        "marks": 90.0
+    },
+    {
+        "firstname": "Lerato",
+        "lastname": "Nkosi",
+        "marks": 75.0
+    },
+    {
+        "firstname": "Thabo",
+        "lastname": "Mokoena",
+        "marks": 50.0
+    }
+]
